@@ -1,0 +1,89 @@
+what is devOps ?
+before devOps used methods
+1.waterfall methods---> just like waterfall (complete ga devlopment ayyaka next step testing  ki velledhi its waste lot of time and resources and still not get satistied results)
+ once requirements are fixed we can't change
+ 2 years project to go for PROD
+
+ last 1 year
+ last 1 month deploy --> 100 defects
+ 20 invalid defects --> 
+
+ process change --> Agile
+
+item --> 1 test --> 2 defects
+1000 test --> 3 defects
+2.agile methods -----> dintlo oka set of devlopment ayyaka testing ki move chese vallu better than waterfall but still not satistied
+  Final product --> multiple modules --> sprint
+  item --> 1 test --> 2 defects
+  1000 test --> 3 defects
+  
+ Final product --> multiple modules --> sprints
+
+  login and signup --> sprint-1 --> 30 days
+  orders
+  menu
+  payment
+  shipping
+  cart
+  reviews
+  employees
+
+  sprint-1
+  ----------
+ clients UAT(user acceptance testing)
+
+  daily standups --> 
+
+  95% --> 5 defects, 1 invalid defect
+
+  sprint-2 --> orders + 4 defects
+
+  15 days 15 days testing and deployment
+
+Process change --> Agile with DevOps
+=========================
+
+Signup and Login
+==================
+
+DAY-1 --> enter first name, enter last name, enter DOB
+
+deploy on the same day, test on the same day
+10 defects --> 1 invalid defect
+
+DevOps is the process of building, deploying and testing the code written by developer on the same day instead of doing after complete development.. we can acheive this using continous integration, continous deployment, continous delivery and continous testing. 
+We can do faster releases with less defect using DevOps... basically automation mindset to get the best results
+
+
+
+ENIVIROMENTS
+DEV, QA, SIT, UAT, PERF, PRE-PROD, PROD
+DEV - Devlopment 
+QA- Quality Assurance
+SIT -system intergration testing
+UAT - User Acceptance Testing
+
+
+What is linux ?
+
+linux is kernal
+
+Linux --> from the sratch using C language based on unix principles. He invented git to store this
+
+windows
+-----------
+not open source
+costly
+not secure must install anti virus
+slow
+too many graphics
+frequent restarts
+tough to update/upgrade
+
+Linux --> 9MB
+Secure
+high speed --> mostly text
+no need of restarts
+install or update packages is easy
+free, community support
+low resources
